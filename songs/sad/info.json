@@ -1,0 +1,17 @@
+{
+    "title": "Sad Songs",
+    "description": "For emotional moments",
+    "cover": "cover.jpg",
+    "songs": [
+        "Bekhayali_-_Sachet_Tandon.mp3",
+        "Chal_Ghar_Chalen_-_Arijit_Singh_and_Sayeed_Quadri.mp3",
+        "Humnava_Mere_-_Jubin_Nautiyal.mp3",
+        "Meri_Bheegi_Bheegi_Si_-_Arijit_Singh.mp3",
+        "Pachtaoge_-_Arijit_Singh.mp3",
+        "Phir_Bhi_Tumko_Chaahunga_-_Arijit_Singh.mp3",
+        "Rula_k_gaya_ishq_tera_-_Rapstar.mp3",
+        "Thodi_Jagah_-_Arijit_Singh.mp3",
+        "Tujhe_Kitna_Chahne_Lage_-_Arijit_Singh.mp3",
+        "Tum_Hi_Aana_-_Jubin_Nautiyal.mp3"
+    ]
+}

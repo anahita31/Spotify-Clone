@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spotify - Web Player</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/utility.css" />
+    <link rel="icon" type="image/x-icon" href="Image_Assets/favicon.ico">
+  </head>
+  <body>
+    <div class="container flex bg-black">
+      <div class="left">
+        <div class="close">
+          <img width="30" class="invert" src="Image_Assets/close.svg" alt="X" />
+        </div>
+        <div class="home bg-grey rounded m-1 p-1">
+          <div class="logo">
+            <img
+              class="invert"
+              src="Image_Assets/logo.svg"
+              alt="Spotify"
+              width="89px"
+            />
+          </div>
+          <ul>
+            <li>
+              <img class="invert" src="Image_Assets/home.svg" alt="Home" />Home
+            </li>
+            <li>
+              <img class="invert" src="Image_Assets/search.svg" alt="Search" />
+              <input
+                type="text"
+                name="Search"
+                placeholder="Search"
+                style="border-radius: 5px; padding-left: 5px"
+              />
+            </li>
+          </ul>
+        </div>
+        <div class="library bg-grey rounded m-1 p-1">
+          <div class="heading">
+            <img class="invert" src="Image_Assets/playlist.svg" alt="Library" />
+            <h2>Your Library</h2>
+          </div>
+          <div class="songList">
+            <ul></ul>
+          </div>
+          <div class="footer">
+            <div>
+              <a href="https://www.spotify.com/jp/legal/" target="_blank"
+                ><span>Legal</span></a
+              >
+            </div>
+            <div>
+              <a href="https://www.spotify.com/jp/privacy/" target="_blank"
+                ><span>Privacy Center</span></a
+              >
+            </div>
+            <div>
+              <a
+                href="https://www.spotify.com/jp/legal/privacy-policy/"
+                target="_blank"
+                ><span>Privacy Policy</span></a
+              >
+            </div>
+            <div>
+              <a
+                href="https://www.spotify.com/jp/legal/cookies-policy/"
+                target="_blank"
+                ><span>Cookies</span></a
+              >
+            </div>
+            <div>
+              <a
+                href="https://www.spotify.com/jp/legal/privacy-policy/#s3"
+                target="_blank"
+                ><span>About Ads</span></a
+              >
+            </div>
+            <div>
+              <a
+                href="https://www.spotify.com/jp/accessibility/"
+                target="_blank"
+                ><span>Accessibility</span></a
+              >
+            </div>
+          </div>
+          <div style="background-color: black; color: white; text-align: center; padding: 2px 0; font-size: 8px; border-radius: 20px;">
+            Created by Abhishek Sharma | karlosharma69@gmail.com
+          </div>
+        </div>
+      </div>
+      <div class="right bg-grey rounded">
+        <div class="header bg-grey">
+          <div class="nav">
+            <div class="hamburgerContainer">
+              <img
+                width="40"
+                class="invert hamburger"
+                src="Image_Assets/hamburger.svg"
+                alt="="
+              />
+              <svg
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M15 6L9.70711 11.2929C9.37377 11.6262 9.20711 11.7929 9.20711 12C9.20711 12.2071 9.37377 12.3738 9.70711 12.7071L15 18"
+                  stroke="#ffffff"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+              <svg
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M9 18L14.2929 12.7071C14.6262 12.3738 14.7929 12.2071 14.7929 12C14.7929 11.7929 14.6262 11.6262 14.2929 11.2929L9 6"
+                  stroke="#ffffff"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </div>
+          </div>
+          <div class="buttons">
+            <button class="signupbtn">Sign up</button>
+            <button class="loginbtn">Log in</button>
+          </div>
+        </div>
+        <div class="spotifyPlaylist">
+          <h1>Spotify Playlist</h1>
+          <div class="cardContainer"></div>
+          <div class="playbar">
+            <div class="seekbar">
+              <div class="circle"></div>
+            </div>
+            <div class="abovebar">
+              <div class="songinfo"></div>
+              <div class="songbuttons">
+                <img
+                  id="previous"
+                  src="Image_Assets/prevsong.svg"
+                  alt="<"
+                  width="20"
+                />
+                <img
+                  id="play"
+                  src="Image_Assets/play.svg"
+                  alt="Play"
+                  width="20"
+                />
+                <img
+                  id="next"
+                  src="Image_Assets/nextsong.svg"
+                  alt=">"
+                  width="20"
+                />
+              </div>
+              <div class="timevol">
+                <div class="songtime"></div>
+                <div class="volume">
+                  <img src="Image_Assets/volume.svg" alt="Volume" width="20" />
+                  <div class="range">
+                    <input type="range" name="volume" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="js/script.js"></script>
+</html>
+
+

@@ -1,0 +1,17 @@
+{
+    "title": "EDM Songs",
+    "description": "High-energy electronic music",
+    "cover": "cover.jpg",
+    "songs": [
+        "Alone_-_Alan_Walker.mp3",
+        "Alone_-_Marshmello.mp3",
+        "Alone_Pt._III_-__Alan_Walker.mp3",
+        "Alone_Pt._II_-_Alan_Walker.mp3",
+        "Angels_For_Each_Other_-_Martin_Garrix_and_Arijit_Singh.mp3",
+        "Animals_-_Martin_Garrix.mp3",
+        "Hey_Mama_-_David_Guetta.mp3",
+        "Lean_On_(feat._M\u00d8)_-_DJ_Snake.mp3",
+        "Rockabye_-_Clean_Bandit.mp3",
+        "Shape_of_You_-_Ed_Sheeran.mp3"
+    ]
+}

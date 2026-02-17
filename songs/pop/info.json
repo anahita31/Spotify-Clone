@@ -1,0 +1,17 @@
+{
+    "title": "Pop Songs",
+    "description": "Latest pop chartbusters",
+    "cover": "cover.jpg",
+    "songs": [
+        "Alan_Walker_-_Faded.mp3",
+        "Baby_-_Justin_Bieber.mp3",
+        "Blinding_Lights_-_The_Weekend.mp3",
+        "Despacito_-_Luis_Fons.mp3",
+        "FRIENDS_-_Marshmello.mp3",
+        "Lovely_-_Billie_Eilish.mp3",
+        "Middle_Of_The_Night_-_Various.mp3",
+        "Night_Changes_-_One_Direction.mp3",
+        "See_You_Again_-_Charlie_Puth.mp3",
+        "We_Don't_Talk_Anymore_-_Charlie_Puth.mp3"
+    ]
+}

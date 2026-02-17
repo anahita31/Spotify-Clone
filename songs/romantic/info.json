@@ -1,0 +1,17 @@
+{
+    "title": "Romantic Songs",
+    "description": "Love-filled melodies",
+    "cover": "cover.jpg",
+    "songs": [
+        "Aankh_Marey_-_Neha_Kakkar_and_Mika_Singh.mp3",
+        "Coca_Cola_-_Tony_Kakkar.mp3",
+        "Dil_Chori_-_Honey_Singh.mp3",
+        "Dil_Meri_Na_Sune_-_Atif_Aslam.mp3",
+        "Duniyaa_-_Dhvani_Bhanushali.mp3",
+        "Kinna_Sohna_-_Jubin_Nautiyal_and_Dhvani_Bhanushali.mp3",
+        "Main_Hoon_Saath_Tere_-_Arijit_Singh.mp3",
+        "O_Saathi_-_Atif_Aslam.mp3",
+        "Photo_-_Karan_Sehmbi.mp3",
+        "Vaaste_-_Dhvani_Bhanushali.mp3"
+    ]
+}

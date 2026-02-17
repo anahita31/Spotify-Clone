@@ -1,0 +1,15 @@
+{
+    "title": "Motivating Songs",
+    "description": "Songs to boost your drive",
+    "cover": "cover.jpg",
+    "songs": [
+        "Aarambh_-_Piyush_Mishra.mp3",
+        "Bhaag_Milkha_Bhaag_(Rock_Version)_-_Siddharth_Mahadevan.mp3",
+        "Brothers_Anthem_-_Vishal_Dadlani.mp3",
+        "Chak_Lein_De_-_Kailash_Kher.mp3",
+        "Dangal_-_Daler_Mehndi.mp3",
+        "Kar_Har_Maidaan_Fateh_-_Sukhwinder_Singh_and_Shreya_Ghoshal.mp3",
+        "Lehra_Do_-_Arijit_Singh.mp3",
+        "Zinda_-_Prasoon_Joshi.mp3"
+    ]
+}

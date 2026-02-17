@@ -1,0 +1,17 @@
+{
+    "title": "Party Songs",
+    "description": "Dance floor anthems",
+    "cover": "cover.jpg",
+    "songs": [
+        "Ankhiyon_Se_Goli_Mare_-_Mikka_Singh.mp3",
+        "Bom_Diggy_-_Zack_Knight.mp3",
+        "Dilbar_-_Neha_Kakkar.mp3",
+        "Gali_Gali_-_Neha_Kakkar.mp3",
+        "Muqabla_-_Various.mp3",
+        "Naagin_-_Aastha_Gill.mp3",
+        "Naagin_Jaisi_Kamar_Hila_-_Tony_Kakkar.mp3",
+        "O_Saki_Saki_-_Neha_Kakkar.mp3",
+        "The_Jawaani_Song_-_Vishal_Dadlani.mp3",
+        "Zingaat_-_Ajay_Atul.mp3"
+    ]
+}
